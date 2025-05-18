@@ -8,5 +8,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/RealVectors/Main/refs
 
 # Resetevery
 ```lua
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RealVectors/Main/refs/heads/main/Resetevery.lua"))()
 ```
