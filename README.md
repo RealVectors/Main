@@ -1,5 +1,4 @@
 # Main
-**Hello Everyone**
 
 # Anti Afk Check
 ```lua
@@ -10,3 +9,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/RealVectors/Main/refs
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RealVectors/Main/refs/heads/main/Resetevery.lua"))()
 ```
+#- Hello
