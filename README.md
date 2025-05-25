@@ -11,6 +11,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/RealVectors/Main/refs
 
 # Check Fps
 ```lua
-https://raw.githubusercontent.com/RealVectors/Main/refs/heads/main/Fps-Check.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RealVectors/Main/refs/heads/main/Fps-Check.lua"))()
 ```
 -# Hello
