@@ -1,43 +1,32 @@
-<h1 align="center" style="color:#FF66C4">🌐 Hello i Am RealVector 💕</h1>
-<h3 align="center" style="color:#66CCFF">Am I New Beginning A Code</h3>
+<!-- README.md -->
+
+<h1 align="center">🚀 Project Name</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF66C4&center=true&vCenter=true&width=435&lines=Sawadee+Ka+<3" />
+✨ คำโปรยสั้นๆ ที่บ่งบอกว่าโปรเจกต์นี้ทำอะไร ✨<br>
+เช่น “ระบบย่อ URL + QR Code Generator ที่เร็วและปลอดภัย”
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/yourusername/yourrepo?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/yourusername/yourrepo?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/forks/yourusername/yourrepo?style=flat-square" alt="Forks">
 </p>
 
 ---
 
-### 🎧 My Spotify
+## 🖼️ ตัวอย่าง
 
-<p align="center">
-  <img src="https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g&cover_image=true&theme=novatorem&bar_color=66ccff&bar_color_cover=false" />
-</p>
-
-
-### 🔥 My Contributions
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anura123&theme=tokyonight&hide_border=true&ring=FF66C4&fire=66CCFF&currStreakLabel=ffffff" />
-</p>
+![Screenshot](https://your-screenshot-link.png)
 
 ---
 
-### 📲 Connect with Me
+## ✨ คุณสมบัติ
 
-<p align="center">
-  <a href="https://discord.com/users/1208596199603445801" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-FF66C4?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@Anura-gaming-real" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-66CCFF?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@anurav2.0?_t=ZS-8xF6WiL1Kzf&_r=1" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-FF66C4?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-</p>
+✅ ย่อ URL ได้ทันที  
+✅ สร้าง QR Code สำหรับแชร์ง่าย  
+✅ ติดตามจำนวนคลิกได้  
+✅ ใช้ฟรี 100% และ Open Source  
+✅ UI สะอาด ใช้งานง่าย
 
 ---
-
-<p align="center" style="color:#888">
-  💻 Crafted with <span style="color:#FF66C4">💗</span>Anura Gaming On top</strong>
-</p>
