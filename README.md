@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">🚀 Project Name</h1>
+<h1 align="center">🚀 Real Vectors</h1>
 
 <p align="center">
 ✨ คำโปรยสั้นๆ ที่บ่งบอกว่าโปรเจกต์นี้ทำอะไร ✨<br>
