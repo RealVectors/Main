@@ -7,21 +7,12 @@
 
 ---
 
-### 🎧 Spotify Vibes
+### 🎧 My Spotify
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lhs4s2u6akzu4likhmw5wuavwy&cover_image=true&theme=novatorem&bar_color=66ccff&bar_color_cover=false" />
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anura123&show_icons=true&theme=tokyonight&title_color=FF66C4&icon_color=66CCFF&text_color=ffffff&bg_color=0d1117" />
-</p>
-
----
 
 ### 🔥 My Contributions
 
