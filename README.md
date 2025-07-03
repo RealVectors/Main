@@ -10,7 +10,7 @@
 ### 🎧 My Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lhs4s2u6akzu4likhmw5wuavwy&cover_image=true&theme=novatorem&bar_color=66ccff&bar_color_cover=false" />
+  <img src="[https://spotify-github-profile.vercel.app/api/view?uid=31lhs4s2u6akzu4likhmw5wuavwy](https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g)&cover_image=true&theme=novatorem&bar_color=66ccff&bar_color_cover=false" />
 </p>
 
 
